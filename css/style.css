@@ -1,0 +1,39 @@
+body {
+
+    font-family: inherit;
+  } 
+
+.jumbotron {
+
+	background-image:url("../images/purp.jpg");
+	
+	background-size: cover;
+    background-repeat: no-repeat;
+	
+    color: white ;
+
+	text-align: center;
+
+}
+
+
+
+.panel > .panel-heading {
+    background-color: #9370db;
+}
+
+
+
+.well {
+    background-color: #9370db;
+
+    
+}
+
+h5:first-of-type{
+
+    color: #f7f7f7;
+    font-family: inherit; 
+    
+  
+}
